@@ -12,7 +12,7 @@ int main()
   string name1 = "Johny Wannamaker";
   hello1Function(name1);
   
-  string name2 = "Seogu Lee";
+  string name2 = "Seongu Lee";
   hello2Function(name2);
   
   return 0;
